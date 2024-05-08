@@ -1,7 +1,7 @@
 # Simple Calculator
 
 ## Description
-A simple calculator app to easily add, subtract, multiply, or divide using skills I learned in my mobile application development class.
+A simple calculator app I made to easily add, subtract, multiply, or divide using skills I learned in my mobile application development class.
 
 ## Features
  - Addition ➕
