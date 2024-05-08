@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Simple Calculator</string>
-    <string name="calculator">Calculator</string>
+    <string name="calculator">Simple Calculator</string>
     <string name="enter_number">Enter Number</string>
     <string name="addition_text">+</string>
     <string name="subtraction_text">-</string>
