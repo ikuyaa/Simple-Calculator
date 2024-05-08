@@ -99,4 +99,55 @@
         android:text="@string/reset_calculator" />
 
 
+    <TextView
+        android:layout_marginTop="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:text="Change Theme"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:padding="-2dp">
+
+        <Button
+            android:id="@+id/blueButton"
+            android:backgroundTint="@color/lightblue"
+            android:textSize="15sp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/redButton"
+            android:backgroundTint="@color/red"
+            android:textSize="15sp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+        android:id="@+id/pinkButton"
+        android:backgroundTint="@color/pink"
+        android:textSize="15sp"
+        android:layout_marginEnd="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/greenButton"
+            android:backgroundTint="@color/green"
+            android:textSize="14sp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
 </LinearLayout>

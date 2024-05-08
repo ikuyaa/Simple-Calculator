@@ -4,5 +4,21 @@
         <item name="colorPrimary">@color/lightblue</item>
     </style>
 
+    <style name="Base.Theme.SimpleCalculator.Blue">
+        <item name="colorPrimary">@color/lightblue</item>
+    </style>
+
+    <style name="Base.Theme.SimpleCalculator.Red">
+        <item name="colorPrimary">@color/red</item>
+    </style>
+
+    <style name="Base.Theme.SimpleCalculator.Pink">
+        <item name="colorPrimary">@color/pink</item>
+    </style>
+
+    <style name="Base.Theme.SimpleCalculator.Green">
+        <item name="colorPrimary">@color/green</item>
+    </style>
+
     <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator" />
 </resources>
