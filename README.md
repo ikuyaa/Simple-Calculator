@@ -8,4 +8,5 @@ A simple calculator app to easily add, subtract, multiply, or divide.
  - Subtraction ➖
  - Multiplication ✖️
  - Division ➗
- - Button to reset the calculator
+ - Button to reset the calculator ❕
+ - Change the theme 🖌️
